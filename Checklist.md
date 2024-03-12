@@ -1,1 +1,22 @@
  ## Tarefas à fazer
+
+ - [ ] TAD Área
+   - [ ] Funções para mostrar os caminhos a serem escolhidos
+   - [ ] Funções para escolhar um determinado caminho
+   - [ ] Funções para voltar ao início da fase
+   - [ ] Funções para mostrar para o jogador que ele já passou por um caminho
+   - [ ] Funções de reinicio de fase sem a geração de uma nova área
+   - [ ] Função de reinicio de fase com a geração de uma nova área
+   - [ ] Função para geração de uma área (Considerar e pesquisar sobre a geração de área aleatórias!)
+    - [ ] Certificar de sempre conectar UMA e somente UMA saída de uma área ou o fim de jogo.
+    - [ ] Fazer com que as salas sejam mais difíceis com o passar de áreas (Mais caminhos a serem percorridos)
+    - [ ] Considerar adicionar uma seleção de dificuldade ao jogo
+    - [ ] Fazer uma função para gerar uma fase NÃO ALEATÓRIA para mostrar a apresentação posterior do projeto.
+   - [ ] Para área inicial, utilizar grafo não direcionado, e central usar grafo direcionado, ambos ponderados. 
+ - [ ] TAD Jogador
+   - [ ] Nome
+   - [ ] Pontuação
+   - [ ] Considerar rejogabilidade (Ou login)
+   - [ ] Guardar pontuação em arquivo, somente as últimas 10 vitórias
+   - [ ] Guardar tempo de cada percurso do jogador! O tempo começa a ser contado ao início de uma tentativa e somente para de contar quando o jogar a termina.
+ - [ ]
