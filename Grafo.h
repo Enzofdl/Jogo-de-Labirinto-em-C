@@ -1,5 +1,3 @@
-#typedef int bool
-
 typedef struct adjacencia
 {
     int vertice;
@@ -20,4 +18,4 @@ typedef struct grafo
 
 Grafo *criaGrafo(int v);
 Adjacencia *criaAdjacencia(int v);
-bool criaAresta(Grafo *gr, int vi, int vf);
+int criaAresta(Grafo *gr, int vi, int vf);
