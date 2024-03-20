@@ -13,6 +13,8 @@ LISTAS DE ADJACENCIA:
 
 ### Grafo 2:
 
+![Grafo 1](/Assets/Grafo_2.jpeg)
+
 ### Grafo 3:
 
 1 -> 2 -> 4
@@ -20,6 +22,8 @@ LISTAS DE ADJACENCIA:
 3 -> 5
 4 -> 5
 5 -> SAIDA
+
+![Grafo 1](/Assets/Grafo_3.jpeg)
 
 ### Grafo 4:
 
@@ -30,8 +34,11 @@ LISTAS DE ADJACENCIA:
 5 -> 6
 6 -> SAIDA
 
+![Grafo 1](/Assets/Grafo_4.jpeg)
+
 ### Grafo 5:
 
+![Grafo 1](/Assets/Grafo_5.jpeg)
 
 ### Grafo 6:
 
@@ -43,3 +50,5 @@ LISTAS DE ADJACENCIA:
 5 -> 6
 6 -> 7
 7 -> 
+
+![Grafo 6](/Assets/Grafo_6.jpeg)
