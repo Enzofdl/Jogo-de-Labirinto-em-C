@@ -6,7 +6,7 @@ LISTAS DE ADJACENCIA:
 0 2
 2 -> Saída
 
-![Grafo 1](/assets/Grafo_1.jpeg)
+![Grafo 1](/Assets/Grafo_1.jpeg)
 
 
 
