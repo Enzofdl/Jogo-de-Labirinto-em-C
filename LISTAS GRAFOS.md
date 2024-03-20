@@ -1,6 +1,10 @@
 LISTAS DE ADJACENCIA:
 
-GRAFO 1:
+###Grafo 01:
+0 1
+0 2
+2 -> Saída
+
 
 GRAFO 2:
 
@@ -23,7 +27,6 @@ GRAFO 4:
 
 GRAFO 5:
 
-GRAFO 6:
 
 GRAFO 6:
 
