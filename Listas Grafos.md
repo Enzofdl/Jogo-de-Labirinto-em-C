@@ -1,14 +1,19 @@
 LISTAS DE ADJACENCIA:
 
-###Grafo 01:
+### Grafo 01:
+
 0 1
 0 2
 2 -> Saída
 
+![Grafo 1](/assets/Grafo_1.jpeg)
 
-GRAFO 2:
 
-GRAFO 3:
+
+
+### Grafo 2:
+
+### Grafo 3:
 
 1 -> 2 -> 4
 2 -> 3
@@ -16,7 +21,7 @@ GRAFO 3:
 4 -> 5
 5 -> SAIDA
 
-GRAFO 4:
+### Grafo 4:
 
 1 -> 2 -> 3 -> 5
 2 -> 3 -> 5
@@ -25,10 +30,10 @@ GRAFO 4:
 5 -> 6
 6 -> SAIDA
 
-GRAFO 5:
+### Grafo 5:
 
 
-GRAFO 6:
+### Grafo 6:
 
 0 -> 1 -> 2 -> 3
 1 -> 4
