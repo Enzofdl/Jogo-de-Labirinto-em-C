@@ -63,7 +63,7 @@ Lista de Adjacência:
 + 3 ->
 + 4 -> 
 + 5 -> 6
-6 -> 7
-7 -> 
++ 6 -> 7
++ 7 -> 
 
 ![Grafo 6](/Assets/Grafo_6.jpeg)
