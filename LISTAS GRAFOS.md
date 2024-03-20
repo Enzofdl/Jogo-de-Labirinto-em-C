@@ -1,0 +1,20 @@
+LISTAS DE ADJACENCIA:
+
+GRAFO 1:
+
+GRAFO 2:
+
+GRAFO 3:
+
+1 -> 2 -> 4
+2 -> 3
+3 -> 5
+4 -> 5
+5 ->
+
+
+GRAFO 4:
+
+GRAFO 5:
+
+GRAFO 6:
