@@ -1,21 +1,19 @@
-typedef struct adjacencia
+typedef struct no
 {
-    int vertice;
-    struct adjacencia *prox;
-}Adjacencia;
-
-typedef struct vertice
-{
-    Adjacencia *head;
-}Vertice;
+    int ehfinal;
+    int proximos;
+    no* prox[proximos];
+}no;
 
 typedef struct grafo
 {
-    int vertices;
+    int qntvertices;
     int arestas;
-    Vertice *adj;
+    no *inicio;
+    no* vertices;
 }Grafo;
 
-Grafo *criaGrafo(int v);
-Adjacencia *criaAdjacencia(int v);
+Grafo *criaGrafo(int qntnos);
+no* criano(no* prox[], int proximos);
+
 int criaAresta(Grafo *gr, int vi, int vf);
