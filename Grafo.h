@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
 #typedef int bool
 
 typedef struct adjacencia
